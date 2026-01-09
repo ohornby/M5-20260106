@@ -16,3 +16,13 @@ The idea is, a CSV file will be retrieved from a location and the contents revie
 * Missing values
 
 Following this, the clean files will be pushed to the Git repository along with the Python file which performs the transformation. The .py file is called **'LibraryCleaning.py'**.
+
+The next stage in this project is unit testing. Unit tests are segments of code which will test the Python transformation code written above. Following transformation, we expect the Library data to be structured correctly, be clean and production ready. **Unit testing for this project is currently in progress...**
+
+Below is the raw Library file.
+
+![Description](before.png)
+
+Following the changes and amendments, the file is now tidied is shown below.
+
+![Description](after.png)
